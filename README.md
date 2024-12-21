@@ -32,3 +32,47 @@ Here are some of my top projects:
 - [Personal Website](https://your-website.com)
 
 Thanks for visiting my profile! Have a great day! 😊
+
+# 👋 Hi there, I'm Fodrc3!
+
+Welcome to my GitHub profile! I'm passionate about Animasi Anime and love to create and contribute to projects related to this fascinating art form. Here you'll find some of my work, projects, and contributions.
+
+## 🚀 About Me
+
+- 🎨 **Hobbyist Animator**: I enjoy creating anime-style animations in my free time.
+- 💻 **Developer**: I have experience in various programming languages and frameworks.
+- 📚 **Lifelong Learner**: I'm always looking to improve my skills and learn new things.
+
+## 🔧 Technologies & Tools
+
+- **Animation Software**: Adobe After Effects, Blender, Toon Boom Harmony
+- **Programming Languages**: Python, JavaScript, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Version Control**: Git, GitHub
+
+## 🌟 Featured Projects
+
+### 🖌️ [Anime Character Creator](https://github.com/Fodrc3/anime-character-creator)
+A web application that allows users to create and customize their own anime characters. Built with React and Node.js.
+
+### 🎬 [Anime Scene Animator](https://github.com/Fodrc3/anime-scene-animator)
+A tool for animating scenes with anime-style characters and backgrounds. Created using Blender and Python.
+
+### 📽️ [Anime Clip Library](https://github.com/Fodrc3/anime-clip-library)
+A collection of short anime clips and animations I've created. Feel free to use them in your own projects!
+
+## 📫 Get in Touch
+
+- **Twitter**: [@Fodrc3](https://twitter.com/Fodrc3)
+- **LinkedIn**: [Fodrc3](https://linkedin.com/in/Fodrc3)
+- **Email**: fodrc3@example.com
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Create Smooth Anime Animations](https://yourblog.com/how-to-create-smooth-anime-animations)
+- [Top 10 Tools for Anime Artists](https://yourblog.com/top-10-tools-for-anime-artists)
+- [Getting Started with Blender for Anime](https://yourblog.com/getting-started-with-blender-for-anime)
+<!-- BLOG-POST-LIST:END -->
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on any projects.
